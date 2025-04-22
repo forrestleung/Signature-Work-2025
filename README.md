@@ -1,7 +1,7 @@
-# 2025 Signature Work Project: Sentiment Analysis of Social Media During the 2024 U.S. Presidential Election
+# 2025 Signature Work Project
 
 ![SW Poster](https://github.com/user-attachments/assets/e97bfb7b-62f6-463c-8bc9-a6b679647e0f)
-
+---
 Social media’s rise as an accessible medium for political discourse has reshaped voter engagement and ideological divides, particularly during electoral cycles. This project examines sentiment trends surrounding the 2024 United States presidential election by analyzing social media posts from Instagram and X, formerly Twitter.
 
 ## Project Overview
